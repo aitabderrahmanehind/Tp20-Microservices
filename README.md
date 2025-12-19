@@ -15,6 +15,10 @@ Ce module agit comme un annuaire pour tous les autres microservices. Chaque serv
 
 -   **Port par défaut**: `8761`
 -   **Tableau de bord Eureka**: [http://localhost:8761](http://localhost:8761)
+    <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/71c7c60e-9c34-4b8a-9cb4-9fa947e824d6" />
+    <img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/57f8d3b4-6ea9-45ba-83cd-9c7faa11b834" />
+
+
 
 ### 2. `gateway-service`
 C'est le point d'entrée unique pour toutes les requêtes externes. Au lieu d'exposer chaque microservice directement, les clients (navigateurs, applications mobiles, etc.) communiquent uniquement avec la passerelle.
